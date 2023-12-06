@@ -5,12 +5,12 @@ let textNew = new String(" hello ");
 
 
 //String method
-textNew.trim(" ");
+textNew.trim(); //remove space
 
-textNew.substring(0,4);
+textNew.substring(0,4); //get word from position
 
-textNew.toUpperCase();
+textNew.toUpperCase(); // covert letter to upper case
 
-textNew.toLowerCase();
+textNew.toLowerCase(); // covert letter to lower case
 
-textNew.splice(0,4);
+textNew.splice(0,4); // covert letter from position
