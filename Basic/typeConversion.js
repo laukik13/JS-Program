@@ -16,3 +16,9 @@ console.log(typeof numberValue); //number
 //In boolean
 //1 => true , 0 => false
 //"" => false , "hello" => true
+
+//perfix opreator
+//++i increament before usage
+
+//postfix opreator
+//i++ increament after usage
