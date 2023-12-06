@@ -1,1 +1,1 @@
-console.log("laukik palekar");
+// console.log("laukik palekar");
