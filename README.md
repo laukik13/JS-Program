@@ -1,2 +1,2 @@
 # JS-Program
-A code for JavaScript repo with Laukik Palekar
+A code for JavaScript with Laukik Palekar
