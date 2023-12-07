@@ -33,3 +33,25 @@ const obj2 = {c : 3,d: 4};
 const objn = Object.assign({},obj1,obj2);
 
 console.log(objn);
+
+//-----------------------------------------------
+
+const  course = {
+    courseName : "BSC-IT",
+    duration: "3 years",
+    facultyName : "Mrs.Reenu"
+}
+
+console.log(course.courseName);  //Simple way to access value from object
+
+// Another way is Object Distructing
+
+const {courseName,duration,facultyName} = course;
+
+console.log(courseName);  //getting value from object in distructing formate
+
+//------------------------------------------------
+ 
+ 
+
+
