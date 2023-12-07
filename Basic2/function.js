@@ -35,3 +35,4 @@ let result  = numValue(4,5);  //you need to store value to in variable and then 
 
 console.log(result);  /* || */  console.log(numValue(4,5));    // you can call in both way
 
+ 
