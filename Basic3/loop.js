@@ -98,7 +98,11 @@ const newNums = myNum.filter((num)=>{              //when use {} in call back fu
 
 const newMap = myNum.map((num)=>(num*10)).map((num)=>(num + 1)).filter((num)=>( num>30));
 
-console.log(newMap);
+// console.log(newMap);
 
- 
+ //----------------------reduce-------------------------------
+
+const newReduce  = myNum.reduce((acc,num)=> (acc + num),0);  //it is use to calculate total of all num  it is usally use for eg:- total pricing , total shoppin amount 
+
+console.log(newReduce);
 
