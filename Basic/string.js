@@ -13,4 +13,4 @@ textNew.toUpperCase(); // covert letter to upper case
 
 textNew.toLowerCase(); // covert letter to lower case
 
-textNew.splice(0,4); // covert letter from position
+textNew.splice(0,4); // convert letter from position
