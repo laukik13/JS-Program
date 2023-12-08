@@ -9,8 +9,8 @@ textNew.trim(); //remove space
 
 textNew.substring(0,4); //get word from position
 
-textNew.toUpperCase(); // covert letter to upper case
+textNew.toUpperCase(); // convert letter to upper case
 
-textNew.toLowerCase(); // covert letter to lower case
+textNew.toLowerCase(); // convert letter to lower case
 
 textNew.splice(0,4); // convert letter from position
