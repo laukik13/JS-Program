@@ -11,8 +11,12 @@
     
 // }
 
+//Any condition or reason statement like ifelse,switch,for, are contant block scope 
 
-//Nested Function
+
+
+//-------------------Nested Function-------------------
+
 // child function can only access parent value but parent cannot get child function value 
 
 function parentValue(){
@@ -23,7 +27,7 @@ function parentValue(){
         console.log(parentName);
       }
 
-    //   console.log(chlidName);
+    //   console.log(chlidName);   //here parent component cannot access child values
       childValue();
 }
 
