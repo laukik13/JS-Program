@@ -13,7 +13,7 @@
 
  // 2 Memory creation Phase --- // collect all variable and store in MCP
 
- // 3 Exceution Phase  --- exceut value to variable / perform exceution
+ // 3 Exceution Phase  --- // exceut value to variable // perform exceution
 
 //in exceution context if we found functiont than it will create sperate exceution context  content  (new variable environment) + (exection thread)
 

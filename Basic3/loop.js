@@ -19,11 +19,11 @@ while(a < num){
 //-----------------------do while-------------------------
 
 do {
-    // console.log(`my number is ${a}`)
+    console.log(`my number is ${a}`)
      a++;
 } while (a < num);
 
-//for of (array)
+//---------------------for of (array)-------------------------
 
 const myArray = [1,2,3,4,5];
 
@@ -104,5 +104,5 @@ const newMap = myNum.map((num)=>(num*10)).map((num)=>(num + 1)).filter((num)=>( 
 
 const newReduce  = myNum.reduce((acc,num)=> (acc + num),0);  //it is use to calculate total of all num  it is usally use for eg:- total pricing , total shoppin amount 
 
-console.log(newReduce);
+// console.log(newReduce);
 
