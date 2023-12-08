@@ -5,6 +5,7 @@
 // console.log( 3+3); console.log("Hello") // code should be readable
 
 
+//----------------paremative---------------
 
 //number - it range is 2 to power 53
 //string
@@ -13,6 +14,7 @@
 //null - standalone value / valiable value is null(empty) /its type of object
 //undefine- variable not assign value
 
+//---------------non-paremative-----------------
 
 //object
 //array

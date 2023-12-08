@@ -19,7 +19,7 @@ while(a < num){
 //-----------------------do while-------------------------
 
 do {
-    console.log(`my number is ${a}`)
+    // console.log(`my number is ${a}`)
      a++;
 } while (a < num);
 
@@ -43,7 +43,7 @@ map.set('USA',"United State Of America");
 
 // console.log(map);
 
-//for in (object)
+//--------------------for in (object)----------------------
 
 const newObj = 
     {
@@ -71,6 +71,26 @@ myArr.forEach((element ,index ,arr) => {
     // console.log(element , index , arr);
 });
 
+const details = [
+    {
+        name: "laukik",
+        age: 23
+    },
+    {
+        name: "pankaj",
+        age: 21
+    },
+    {
+        name: "atul",
+        age: 21
+    },
+]
+
+details.forEach((value)=>
+ console.log(value.name)
+)
+
+
 
 //-------------------------filter----------------------------
 
@@ -94,7 +114,7 @@ const newNums = myNum.filter((num)=>{              //when use {} in call back fu
 // console.log(newNumss);
 
 
-//chaining in map
+//chaining 
 
 const newMap = myNum.map((num)=>(num*10)).map((num)=>(num + 1)).filter((num)=>( num>30));
 
@@ -102,7 +122,7 @@ const newMap = myNum.map((num)=>(num*10)).map((num)=>(num + 1)).filter((num)=>( 
 
  //----------------------reduce-------------------------------
 
-const newReduce  = myNum.reduce((acc,num)=> (acc + num),0);  //it is use to calculate total of all num  it is usally use for eg:- total pricing , total shoppin amount 
+const newReduce  = myNum.reduce((acc,num)=> (acc + num),0);  //it is use to calculate total of all number it is usally use for eg:- total pricing , total shoppin amount 
 
 // console.log(newReduce);
 
