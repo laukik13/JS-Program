@@ -10,9 +10,9 @@
 
 //  sayName(); //funciton name(sayName) work as refrence and () work as exicution
 
- //------------------------------------------------
+ //------------------------------------------------------
 
- function addTwoNumber(num1,num2){      //elements called in function name () is called as paremeter
+ function addTwoNumber(num1,num2){      //elements called in function name () after function keyword is called as paremeter
 
     console.log(num1 + num2);
     

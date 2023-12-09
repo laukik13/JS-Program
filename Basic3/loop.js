@@ -114,7 +114,7 @@ const newNums = myNum.filter((num)=>{              //when use {} in call back fu
 // console.log(newNumss);
 
 
-//chaining 
+//chaining                        //going two three methode in line is called chaining
 
 const newMap = myNum.map((num)=>(num*10)).map((num)=>(num + 1)).filter((num)=>( num>30));
 
@@ -122,7 +122,7 @@ const newMap = myNum.map((num)=>(num*10)).map((num)=>(num + 1)).filter((num)=>( 
 
  //----------------------reduce-------------------------------
 
-const newReduce  = myNum.reduce((acc,num)=> (acc + num),0);  //it is use to calculate total of all number it is usally use for eg:- total pricing , total shoppin amount 
+const newReduce  = myNum.reduce((acc,num)=> (acc + num),0);  // it is use to calculate total of all number it is usally use for eg:- total pricing , total shoppin amount 
 
 // console.log(newReduce);
 

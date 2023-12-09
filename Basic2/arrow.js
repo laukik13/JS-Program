@@ -16,4 +16,4 @@ const result = (num1,num2) => {
 
 const result2 = (num1,num2) => (num1 + num2);
 
-// when you not use {} in function and use () you need no return (keyword) value to fetch that return is called implist return
+// when you not use {} in arrow function and use () you need no return (keyword) value to fetch that return ,that is called implist return
