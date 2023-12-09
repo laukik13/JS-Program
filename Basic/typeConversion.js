@@ -5,13 +5,13 @@ console.log(numberValue); // 33
 console.log(typeof numberValue); //number
 
 //To connvert string to Number use 
-//Number()
+Number()
 
 //To connvert Number to string use 
-//String()
+String()
 
 //To connvert Number to boolean use 
-//Boolean()
+Boolean()
 
 //In boolean
 //1 => true , 0 => false
