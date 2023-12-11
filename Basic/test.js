@@ -1,1 +1,3 @@
-// console.log("laukik palekar");
+// what is javascript ?
+
+// javascript is synchrous ,single threaded language
