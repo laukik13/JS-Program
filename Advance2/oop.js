@@ -5,7 +5,7 @@
 //---object---
 
 //its is collection of properties and methods
-//eg;- toLowercase()
+//eg:- toLowercase()
 
 //---why use oop---
 
