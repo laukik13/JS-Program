@@ -14,3 +14,5 @@ textNew.toUpperCase(); // convert letter to upper case
 textNew.toLowerCase(); // convert letter to lower case
 
 textNew.splice(0,4); // convert letter from position
+
+textNew.indexOf();  // return datatype of string 
