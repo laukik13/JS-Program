@@ -1,4 +1,12 @@
+ // ---object---
+
+//  Object is a complex data type that allows you to store and organize data. 
+//  Objects are used to represent real-world entities, and they consist of properties and methods.
+//  Properties are key-value pairs that store data, and methods are functions associated with the object
+ 
  //basic syntx how to write object
+
+ //object are written in object literal form closed in {}
 
 const obj = {
     name: "laukik",
@@ -11,7 +19,8 @@ const obj = {
 
 // Object.freeze(obj);    //freez object to not change the value
 
-obj.name = "Laukik Palekar"
+obj.name = "Laukik Palekar"  
+
 
 //-----------function in object-------------
 
@@ -42,13 +51,13 @@ const  course = {
     facultyName : "Mrs.Reenu"
 }
 
-console.log(course.courseName);  //Simple way to access value from object
+console.log(course.courseName);  //Simple way to access value from object //used dot notation to access value from object 
 
 // Another way is Object Distructing
 
 const {courseName,duration,facultyName} = course;
 
-console.log(courseName);  //getting value from object in distructing formate
+console.log(courseName);  //getting value from object after distructing formate
 
 //------------------------------------------------
  
