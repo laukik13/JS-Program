@@ -1,6 +1,9 @@
  //Basic syntx of function 
-//  function keyword at starting witting function name afterward with () and fuctionscope {}
-// It is help write some code to use it again, just wrapped code in package and call it when you need
+
+// function is fundamental building block of the language.
+// It is help to write efficent code to use it again, just wrapped code as a package and call it when you need
+// function keyword at starting witting function name afterward with () and functionscope {}
+
 
  function sayName(){
     console.log("l");
@@ -12,13 +15,13 @@
 
  //------------------------------------------------------
 
- function addTwoNumber(num1,num2){      //elements called in function name () after function keyword is called as paremeter
+ function addTwoNumber(num1,num2){      //here elements called inside () after function keyword is called as paremeter
 
     console.log(num1 + num2);
     
  }
 
-// addTwoNumber(4,5);   //elements called in function name () is called as argument
+// addTwoNumber(4,5);   // here elements called inside function name () is called as argument
 
 //------------------------------------------------------
 
