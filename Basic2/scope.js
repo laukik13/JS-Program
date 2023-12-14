@@ -11,8 +11,7 @@
     
 // }
 
-//Any condition or reason statement like ifelse,switch,for, are contant block scope 
-
+//Any condition or reason statement like ifelse,switch,for, contant block scope 
 
 
 //-------------------Nested Function-------------------

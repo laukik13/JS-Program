@@ -114,7 +114,7 @@ const newNums = myNum.filter((num)=>{              //when use {} in call back fu
 // console.log(newNumss);
 
 
-//chaining                        //going two three methode in line is called chaining
+//--------chaining--------                     // using two three methode in line is called chaining
 
 const newMap = myNum.map((num)=>(num*10)).map((num)=>(num + 1)).filter((num)=>( num>30));
 
