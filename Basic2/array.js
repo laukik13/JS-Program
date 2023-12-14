@@ -2,7 +2,7 @@ let arr = [1,2,3,4,5];   //Array syntx
 
 // let arr2 = new Array(1,2,3,4,5); //also written as 
 
-//array is collection of data of same datatype. which is writen in [] and values inside are called elements
+//array is data structure which is organized for multiple values, array is collection of data of same datatype or any datatype. which is writen in [] and values inside are called elements
 
 //-------------Array method------------
 
@@ -18,7 +18,7 @@ console.log(arr.includes(9)); //return boolean value check value
 
 let arryMany = [1,2,3,[4,5,6],7,8,9,[0]]
 
-console.log(arryMany.flat(Infinity));
+console.log(arryMany.flat(Infinity));  // solve other multiple array in one array
 
 //----------------------------------  
 
