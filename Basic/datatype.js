@@ -16,6 +16,7 @@ undefine  // variable not assign value
 
 //---------------non-paremative-----------------
 
-object
-array
-function myFnc(){};
+object // A collection of key-value pairs, where values can be primitive data types or other objects
+array  // A special type of object used for storing ordered lists of values
+function myFnc(){}; // A type of object that can be invoked
+
