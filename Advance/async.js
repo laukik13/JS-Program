@@ -12,4 +12,4 @@
 
 // what is api? 
 
-// Its an talking language between systems(front-end and Back-end);
+// Its an talking language between two systems(front-end and Back-end)
