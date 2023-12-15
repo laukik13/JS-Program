@@ -13,8 +13,8 @@
 
  // 2 Exceution Phase  --- // exceut value to variable // perform exceution
 
- 
-//in exceution context if we found function than it will create sperate exceution context  content  (new variable environment) + (exection thread)
+
+//in exceution context if new function is create than it will create sperate exceution context that content (new variable environment) + (exection thread)
 
 
 
