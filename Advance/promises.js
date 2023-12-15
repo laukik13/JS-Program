@@ -1,7 +1,6 @@
   //Promise
      
-  
-  
+  //A Promise represents the eventual completion or failure of an asynchronous operation
   
   
   const promiseOne = new Promise((resolve,reject)=>{ 
