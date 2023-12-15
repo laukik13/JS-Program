@@ -13,8 +13,8 @@
 //4 pillars
 
 // Abstaction - to hide details eg:-Fetch()
-// Encapusultion - wrapping data an aceess methode for when you need
-// Inheritance - access details from parent class
+// Encapusultion - wrapping data an access methode when you need eg;- function()
+// Inheritance - access Properties and methode from parent class
 // Polymorphism - poly means (more) and mophism means (types)
 
 
@@ -26,5 +26,5 @@
 
 // when you use new keyword it create empty object which is called instance
 // than contructor function is called using new keyword and wrap the arguments give it back
-//  than angrument pass from contructor get injected in this keyword 
+// than angrument pass from contructor get injected in this keyword 
 // and return data
