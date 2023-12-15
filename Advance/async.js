@@ -5,7 +5,7 @@
 //Read file sync
 
 
-// Non Blocking Code (sync):-
+// Non Blocking Code (async):-
 // Does not block execution
 // Read file Async 
 
