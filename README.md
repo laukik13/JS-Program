@@ -5,6 +5,6 @@ Author:- Laukik Palekar
 
 ```javascript
 
-console.log("Laukik palekar");
+console.log("Welcome to Javascript");
 
 ```
