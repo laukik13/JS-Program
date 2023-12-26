@@ -10,7 +10,7 @@
             username: "laukik",
             password: "laukik2341"
         })
-    },100);
+    },1000);
 
   })
 
