@@ -11,7 +11,7 @@
     
 // }
 
-//Any condition or reason statement like ifelse,switch,for, contant block scope 
+//Any condition or reason statement like if-else,switch,for, contant block scope 
 
 
 //-------------------Nested Function-------------------
@@ -26,7 +26,7 @@ function parentValue(){
         console.log(parentName);
       }
 
-    //   console.log(chlidName);   //here parent component cannot access child values
+      console.log(chlidName);   //here parent component cannot access child values
       childValue();
 }
 
