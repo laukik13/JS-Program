@@ -12,7 +12,7 @@
 
 //4 pillars
 
-// Abstaction - to hide details eg:-Fetch()
+// Abstaction - to hide details eg:- Fetch()
 // Encapusultion - wrapping data an access methode when you need eg;- function()
 // Inheritance - access Properties and methode from parent class
 // Polymorphism - poly means (more) and mophism means (types)
