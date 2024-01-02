@@ -1,9 +1,9 @@
- //Basic syntx of function 
 
 // function is fundamental building block of the language.
 // It is help to write efficent code to use it again, just wrapped code as a package and call it when you need
 // function keyword at starting witting function name afterward with () and functionscope {}
 
+ //Basic syntx of function 
 
  function sayName(){
     console.log("l");
