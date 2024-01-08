@@ -1,5 +1,5 @@
 # JS-Program
-A code for JavaScript with Laukik Palekar
+JavaScript with Laukik Palekar
 
 Author:- Laukik Palekar
 
