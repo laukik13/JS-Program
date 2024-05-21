@@ -1,5 +1,5 @@
 # JS-Program
-JavaScript with Laukik Palekar
+Basic to Advance JavaScript Notes
 
 Author:- Laukik Palekar
 
